@@ -19,15 +19,12 @@
 }
 
 .footer-contato li {
-    font-weight: bold;
-    font-size: 2.25rem;
-    line-height: 1.1;
-    color: #ffffff;
-    margin-bottom: 30px;
+    text-decoration: none;
 }
 
 .footer-contato a {
-    color: #ffffff;
+    text-decoration: none;
+    color: #a8a8a8;
 
 }
 
@@ -37,12 +34,12 @@
     color: #a8a8a8;
 }
 
-@media (max-width: 800) {
+@media (max-width: 800px) {
     .footer-container {
         grid-template-columns: 1fr;
         gap: 40px;
-
     }
+
     .footer-contato li {
         font-size: 1.5rem;
 

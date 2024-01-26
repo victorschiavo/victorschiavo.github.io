@@ -1,6 +1,17 @@
-@import url(./header.css);
-@import url(./global.css);
-@import url(./introducao.css);
-@import url(./experiencia.css);
-@import url(./formacao.css);
-@import url(./footer.css);
+/* // global // */
+
+@import "./global/global.css";
+@import "./global/header.css";
+@import "./global/footer.css";
+@import "./utilidades/cores.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/animacao.css";
+
+/* Introdução  */
+@import "./introducao/introducao.css";
+
+/* Formação  */
+@import "./formacao/formacao.css";
+
+/* Projeto  */
+@import "./projetos/projetos.css";
