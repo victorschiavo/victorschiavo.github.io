@@ -8,34 +8,14 @@
     align-items: center;
 }
 
-/* .introducao h1 {
-    font-size: 4.5rem;
-    line-height: 1.125;
-    margin-bottom: 30px;
-    position: relative;
-} */
-
 .contato-meios h1 {
     
     margin-top: 18px;
     margin-bottom: 18px;
     position: relative;
-    text-align: center;
-    
+    text-align: center;    
 }
 
-/* .introducao h1.detalhe::before {
-    content: "";
-    display: block;
-    width: 130px;
-    height: 100px;
-    background: url(../img/detalhe.svg) no-repeat center;
-    position: absolute;
-    top: -15px;
-    left: -40px;
-    z-index: -1;
-
-} */
 .contato-meios a {
     display: block;
     max-width: max-content;

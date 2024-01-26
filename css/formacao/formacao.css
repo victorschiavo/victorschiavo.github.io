@@ -14,17 +14,6 @@
     
 }
 
-/* .formacao-container::after {
-    content: "";
-    display: block;
-    width: 130px;
-    height: 130px;
-    background: url(../img/detalhe.svg) no-repeat center;
-    position: absolute;
-    bottom: -50px;
-    left: 20px;
-} */
-
 .formacao .subtitulo {
     display: inline-block;
     color: var(--cor-8);
